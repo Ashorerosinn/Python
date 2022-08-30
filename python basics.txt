@@ -1,0 +1,101 @@
+i=1
+sum=0
+while i<=10:
+    sum=sum+i
+    i=i+1
+    print(sum)
+    
+
+#program for factorial
+num=int(input('enter the number'))
+i=1
+fac=1
+while i<=1:
+    fac=fac*1
+    i+=1
+    print(fac)
+    
+    # even number between 1 to 100
+    num=int(input('enter the number'))
+    i=1
+    while i<=100:
+       if i%2=0
+      print(i)
+      i=i+1
+      
+      #for loop
+      #print 0 to 10 numbers
+      for i in range(11):
+          print(i)
+          
+          # print hello 10 times
+          for j in range(10)
+          print("ashore")
+          
+          #sum
+          sum=0
+          for i in range(10)
+          sum=sum+i
+          print(sum)
+          
+          # loop statement with else
+          
+           for i in range(11):
+          print(i)
+          else:
+              print("condition executed....come out from the loop")
+# break statement
+for i in range(10):
+    if i==5:
+        break
+    else:
+        print(i)
+        
+       #continue statement 
+        for i in range(10):
+    if i==5:
+       continue
+    else:
+        print(i)
+        
+    #pass statement or do nothing statement
+          for i in range(10):
+    if i==5:
+       pass
+    else:
+        print(i)
+        
+        
+        #STRING
+        msg="hello baccha"
+        msg
+        
+        print(msg)
+        
+        msg='hello baccha'
+        msg
+        print(msg)
+        
+        msg="hello baccha let's do it"
+        msg
+        
+        
+       my_msg="""hello baccha let's go"""
+       print(my_msg)
+       msg
+       
+       name='ashore'
+       len(name)
+       msg[2]#it takes the 'h' from the ashore
+       msg[-2]
+       
+       #start and stop value
+       msg='hello where are you'
+       msg[4:] # '0'is the starting point
+       msg[4:9] #'o where'# 'O' is the starting point and'e' is the ending point
+       msg[-2]
+       msg[-2:-6]
+       
+       
+      #reverse of number
+      #n=n-1
